@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 593286602eabb6442b3f930fd4a25e0c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Doom Doom II - Cacodemon_0
+    21300002: PC Computer - Doom Doom II - Cacodemon_1
+    21300004: PC Computer - Doom Doom II - Cacodemon_2
+    21300006: PC Computer - Doom Doom II - Cacodemon_3
+    21300008: PC Computer - Doom Doom II - Cacodemon_4
+    21300010: PC Computer - Doom Doom II - Cacodemon_5
+    21300012: PC Computer - Doom Doom II - Cacodemon_6
+    21300014: PC Computer - Doom Doom II - Cacodemon_7
+    21300016: PC Computer - Doom Doom II - Cacodemon_8
+    21300018: PC Computer - Doom Doom II - Cacodemon_9
+    21300020: PC Computer - Doom Doom II - Cacodemon_10
+    21300022: PC Computer - Doom Doom II - Cacodemon_11
+    21300024: PC Computer - Doom Doom II - Cacodemon_12
+    21300026: PC Computer - Doom Doom II - Cacodemon_13
+    21300028: PC Computer - Doom Doom II - Cacodemon_14
+    21300030: PC Computer - Doom Doom II - Cacodemon_15
+    21300032: PC Computer - Doom Doom II - Cacodemon_16
+    21300034: PC Computer - Doom Doom II - Cacodemon_17
+    21300036: PC Computer - Doom Doom II - Cacodemon_18
+    21300038: PC Computer - Doom Doom II - Cacodemon_19
+    21300040: PC Computer - Doom Doom II - Cacodemon_20
+    21300042: PC Computer - Doom Doom II - Cacodemon_21
+    21300044: PC Computer - Doom Doom II - Cacodemon_22
+    21300046: PC Computer - Doom Doom II - Cacodemon_23
+    21300048: PC Computer - Doom Doom II - Cacodemon_24
+    21300050: PC Computer - Doom Doom II - Cacodemon_25
+    21300052: PC Computer - Doom Doom II - Cacodemon_26
+    21300054: PC Computer - Doom Doom II - Cacodemon_27
+    21300056: PC Computer - Doom Doom II - Cacodemon_28
+    21300058: PC Computer - Doom Doom II - Cacodemon_29
+    21300060: PC Computer - Doom Doom II - Cacodemon_30
+    21300062: PC Computer - Doom Doom II - Cacodemon_31
+    21300064: PC Computer - Doom Doom II - Cacodemon_32
+    21300066: PC Computer - Doom Doom II - Cacodemon_33
+    21300068: PC Computer - Doom Doom II - Cacodemon_34
+    21300070: PC Computer - Doom Doom II - Cacodemon_35
+    21300072: PC Computer - Doom Doom II - Cacodemon_36
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 633
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df75f17353f23418db7729e4d58410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 633
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77440ec0876c34a8e85a5d0cc9f500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 632
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda6ca6e0497eb47b389940e21a6bff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 632
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c35d8869a96b4468bccc31268e9fc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 634
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc84c9a5e982ef4f986a192c282db34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 534
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf46e2ccd0f1a3418f140cf995a87c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 533
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a0ed24c53247c448e53f30f127720e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 532
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d13d920739fbc43986b8ca944dd5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 534
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e7f68e97e71d343a4b4f36346e8e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 534
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308b9a6804ee9648bc4ea016dccd40a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 430
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed73c1dd9cc33544a0a2a1383d09e9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 430
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaafdff9fe324c34093f35d96470cd3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 430
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0e07cc93082e4db6302ee18ebb150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 431
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d7dde15f5716459417d2d24dedd8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 432
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595b329f25618f4b8218dbeb0666368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 326
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d57d08ea03d749852f5d34685d9d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 326
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f517e2d6897f84d9fe01fa87ed0066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e0bda24b615446bc7b94bb659db1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 326
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cedb57575cef3143b50693800b20c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 327
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e28ab2795c9e4f894bc6c22710dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 222
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316f2e9366bd24d4b93551dda8e0f022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 224
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0cf14006d9fb24ebc62ddc8a881528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 221
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5aeacad331b664484ed22b389b77b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 222
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0a1cc38ccc934eb4762d4782e3773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_24
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 223
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c05aba7c6a379408ca88af93c86a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 121
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dea9802bec00124386e67b789d0ef4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 123
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74f74004bbff694e8f2c6a2969ea33c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 120
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d347cb7175acae249b5bdce10bd6d123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 121
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fd5eb01028934d94a2a9c511f50c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 122
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356302ff0a22aa1489ada92795bcc328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14139cf767a765549a21c0b859f0eb9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 20
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6dfb66a55dc7a469096ae48e95c93e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 20
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab826d49a03353747b508ca6225391a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 10
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81c45de8ffb75a4b82670ce9b48f5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 66
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32cfaaaf8fac8b42a8ec64ba232ce6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_35
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 21
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926c1d206a17a3478cfd262c30a0069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Cacodemon_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 38
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8394c877abcef734590e01a7f0939bfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4439657e8319da64fa6e8f36857851f7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

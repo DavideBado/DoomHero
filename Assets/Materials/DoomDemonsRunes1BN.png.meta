@@ -1,0 +1,2094 @@
+fileFormatVersion: 2
+guid: a34633f65df369c4c92dfe954edab0a8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DoomDemonsRunes1BN_0
+    21300002: DoomDemonsRunes1BN_1
+    21300004: DoomDemonsRunes1BN_2
+    21300006: DoomDemonsRunes1BN_3
+    21300008: DoomDemonsRunes1BN_4
+    21300010: DoomDemonsRunes1BN_5
+    21300012: DoomDemonsRunes1BN_6
+    21300014: DoomDemonsRunes1BN_7
+    21300016: DoomDemonsRunes1BN_8
+    21300018: DoomDemonsRunes1BN_9
+    21300020: DoomDemonsRunes1BN_10
+    21300022: DoomDemonsRunes1BN_11
+    21300024: DoomDemonsRunes1BN_12
+    21300026: DoomDemonsRunes1BN_13
+    21300028: DoomDemonsRunes1BN_14
+    21300030: DoomDemonsRunes1BN_15
+    21300032: DoomDemonsRunes1BN_16
+    21300034: DoomDemonsRunes1BN_17
+    21300036: DoomDemonsRunes1BN_18
+    21300038: DoomDemonsRunes1BN_19
+    21300040: DoomDemonsRunes1BN_20
+    21300042: DoomDemonsRunes1BN_21
+    21300044: DoomDemonsRunes1BN_22
+    21300046: DoomDemonsRunes1BN_23
+    21300048: DoomDemonsRunes1BN_24
+    21300050: DoomDemonsRunes1BN_25
+    21300052: DoomDemonsRunes1BN_26
+    21300054: DoomDemonsRunes1BN_27
+    21300056: DoomDemonsRunes1BN_28
+    21300058: DoomDemonsRunes1BN_29
+    21300060: DoomDemonsRunes1BN_30
+    21300062: DoomDemonsRunes1BN_31
+    21300064: DoomDemonsRunes1BN_32
+    21300066: DoomDemonsRunes1BN_33
+    21300068: DoomDemonsRunes1BN_34
+    21300070: DoomDemonsRunes1BN_35
+    21300072: DoomDemonsRunes1BN_36
+    21300074: DoomDemonsRunes1BN_37
+    21300076: DoomDemonsRunes1BN_38
+    21300078: DoomDemonsRunes1BN_39
+    21300080: DoomDemonsRunes1BN_40
+    21300082: DoomDemonsRunes1BN_41
+    21300084: DoomDemonsRunes1BN_42
+    21300086: DoomDemonsRunes1BN_43
+    21300088: DoomDemonsRunes1BN_44
+    21300090: DoomDemonsRunes1BN_45
+    21300092: DoomDemonsRunes1BN_46
+    21300094: DoomDemonsRunes1BN_47
+    21300096: DoomDemonsRunes1BN_48
+    21300098: DoomDemonsRunes1BN_49
+    21300100: DoomDemonsRunes1BN_50
+    21300102: DoomDemonsRunes1BN_51
+    21300104: DoomDemonsRunes1BN_52
+    21300106: DoomDemonsRunes1BN_53
+    21300108: DoomDemonsRunes1BN_54
+    21300110: DoomDemonsRunes1BN_55
+    21300112: DoomDemonsRunes1BN_56
+    21300114: DoomDemonsRunes1BN_57
+    21300116: DoomDemonsRunes1BN_58
+    21300118: DoomDemonsRunes1BN_59
+    21300120: DoomDemonsRunes1BN_60
+    21300122: DoomDemonsRunes1BN_61
+    21300124: DoomDemonsRunes1BN_62
+    21300126: DoomDemonsRunes1BN_63
+    21300128: DoomDemonsRunes1BN_64
+    21300130: DoomDemonsRunes1BN_65
+    21300132: DoomDemonsRunes1BN_66
+    21300134: DoomDemonsRunes1BN_67
+    21300136: DoomDemonsRunes1BN_68
+    21300138: DoomDemonsRunes1BN_69
+    21300140: DoomDemonsRunes1BN_70
+    21300142: DoomDemonsRunes1BN_71
+    21300144: DoomDemonsRunes1BN_72
+    21300146: DoomDemonsRunes1BN_73
+    21300148: DoomDemonsRunes1BN_74
+    21300150: DoomDemonsRunes1BN_75
+    21300152: DoomDemonsRunes1BN_76
+    21300154: DoomDemonsRunes1BN_77
+    21300156: DoomDemonsRunes1BN_78
+    21300158: DoomDemonsRunes1BN_79
+    21300160: DoomDemonsRunes1BN_80
+    21300162: DoomDemonsRunes1BN_81
+    21300164: DoomDemonsRunes1BN_82
+    21300166: DoomDemonsRunes1BN_83
+    21300168: DoomDemonsRunes1BN_84
+    21300170: DoomDemonsRunes1BN_85
+    21300172: DoomDemonsRunes1BN_86
+    21300174: DoomDemonsRunes1BN_87
+    21300176: DoomDemonsRunes1BN_88
+    21300178: DoomDemonsRunes1BN_89
+    21300180: DoomDemonsRunes1BN_90
+    21300182: DoomDemonsRunes1BN_91
+    21300184: DoomDemonsRunes1BN_92
+    21300186: DoomDemonsRunes1BN_93
+    21300188: DoomDemonsRunes1BN_94
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_0
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1206
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ad36d3105ad78418e977f892e3b327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 980
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8391a571babcb0d4d8522de4ab0de21b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 984
+        width: 184
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0df1a0cfa5894459e30e2fd122c55e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1112
+        width: 146
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa93bd3e1cd01343b6230618fa71023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1005
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28cacc45023e84c95fe0aa4982e28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 985
+        width: 160
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b643f3e01e5d946b94b2063de191d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 999
+        width: 169
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0385a1a97aa648bc27ea87a5463ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1057
+        width: 144
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e473b6265a20df48857a8c33001f887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 985
+        width: 232
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e04d58841390c4fae99e334c6296c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_9
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 984
+        width: 182
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf4943c0872941438ab6630e840114b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_10
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 967
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4c5d08b734bb2428daeacc5679443a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_11
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 981
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a511a2ca3f4e6641aa588869aa7f8bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1032
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee5cb4496a743409e56105adc4ce7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1003
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563d3ab3eb57bc4f8cd335aaa699b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1004
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e266b25e6f7a469577de5e64fb0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 714
+        width: 198
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadcd5efeb3b3a044b0f85daebd528d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 716
+        width: 197
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b3c81461618e42bf6710a4b88745c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 866
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99e7499cc86f854fa3170ba5c798dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 755
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cdd6467dd348646b1e256739db5d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 742
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30068a4838121dd46aaf03d63703ea63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_20
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 715
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe880ddb81dee4f8a8b08baef4b51b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_21
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 716
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a44843badfe2741b330d57a301c6c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_22
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 695
+        width: 200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d163832b17ca645a945b8fb87e122a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_23
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 735
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c78bee35c7dd8342a04aa5e21186ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_24
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 706
+        width: 178
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547906db627e1843a0673cebfa812b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_25
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 720
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6870c04a3ae77b449c1fbd0309aa304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 841
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e023e40d5f57446923fd229dccdbc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_27
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 728
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08e8d9f17d0fc4b8d6a481fdb64fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 804
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b2f2830cbd4147902ecc206d28990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 716
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d97f6951435d488c44f4e090e954a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 450
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8932bea657b1b40a23777f885af27d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 442
+        width: 189
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410abe0f3f4c694e91e4bebb8489374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 451
+        width: 143
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1178ce9b5ed0d041844390da24d1bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 476
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790870c66955ae74bb783602b5f62a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_34
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 448
+        width: 163
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcf6561ce63dfb44aeddb6c38b6a832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_35
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 442
+        width: 182
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1db76caff71fb4394f5be0d52594ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_36
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 504
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156581d21b7d9dc4fad13f7f47378aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_37
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 452
+        width: 171
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062917c2c516ef24fbda38131ac6d11d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_38
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 500
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e00336c18851bd4bb75cd9195323555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_39
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 465
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cf051fbb1cd646b4479cd807b12a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_40
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 464
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48d7a514e208904da11fdd62acbb074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_41
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 462
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099fc43a22edf34ba05440879702007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 462
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767cac973df10534fb3764f198501596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_43
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 450
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4e998461ae994b918266a8521ba98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_44
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 442
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68b9cc1d910b946a2d9b08099ff07f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_45
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 439
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b14d3de04276a47a29c01ea6ccac18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_46
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 442
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577f4be6ddc5664bb60edf8dda2f8d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_47
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 448
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60286d0272532c24688e801512887cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_48
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 440
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3759607a9a9e7e24ea02219cae116977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_49
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 176
+        width: 155
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7e4ca209ee9045bf9446cda3187e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_50
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 352
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fba7cbe0700343811b8535c48713b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_51
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 354
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e61e6d127a04a14db387da8c750ea6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_52
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2ed5a4a05ce1449dfc8cd5bd47bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_53
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 182
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d58da69731c749a1d9c778cc02219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_54
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 188
+        width: 155
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ccec166f3c93042a23b6a7ba9fcd02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_55
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 172
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b3d24076cea04aa0bd99b255e8bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_56
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 167
+        width: 136
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887c2f8bcbe6e34d828c3122fc8896a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_57
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 163
+        width: 158
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad367e4857d8a448646e976d8ce1b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 186
+        width: 179
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe5dfca12dd5e04fb784c7c7d8712ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_59
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 310
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb023a36a727764baf48906d000498e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_60
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 271
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85be1b1cc71aad4084f896b4886906f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_61
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 255
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc54cf1cd144f0d44ba5a3a4a0202439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 23
+        width: 105
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d8bf84db08b44f873cc90109ed3ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 59
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8915d7c76bd6b4a90ce9277fe5e274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 59
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6de6007c558e947ab0a2c5e67d80a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_65
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 59
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58abd9b32f2e644b84f68bd5a39d11f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_66
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 59
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3267c82286e749972fd6ae5a76728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 59
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30eb2baa8d9926498992b81858e83c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 59
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40cf5987f6c36489171dac17abf030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 59
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16638139bc10046a9779434f27309b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_70
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 59
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfefaa0939e48294d8a46522cc775d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 59
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f250c4d65fdc0f48abfa3d53f1dadcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 59
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d63169d591bbc4eb381afcdd6278ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_73
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 18
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cae60b05520c148bb58f97513fd555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_74
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399b47b7747d67d4b9dc80fb4cf78e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 37
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e2cda2bb93724b8c58c61ee32758f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_76
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 37
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6d2782185d69409da83226fbfebe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 37
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2aacbf7b9366248ab121e28b39d9a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_78
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e81eaff0af97349860467cc4bc671f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_79
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4e56b3318d4843a2f6af632acc738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9605433550c27b42b5964d993222b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_81
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439585e44ffe2f241ab8a35d895736fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe936f03ba36a748b2f9df2849e19af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_83
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 36
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674300fa31c8f294094720697d8f17e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_84
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac52ac8860be4c45a91e5ec6de39e6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_85
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 40
+        width: 72
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55542a9ff604e764ba532d944c58792e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_86
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 36
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1faa0a9e4ba041b257706aa8d4dad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_87
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f3b9ef9763944f9685c9b38d3cb4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_88
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 23
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b870ba475f28dc4991fd120b2f28b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_89
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2e72bf1a1b3d4188fbb9d8286ecd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_90
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 22
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3950f102124fcc44fa3d0d647130526a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_91
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 22
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0dbcf8bff21354887ad3e5f3ea58e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_92
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 23
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e6d070fc5b42442bd06e670425e8b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_93
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 23
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809ad5faca77224c87aa97a199ac0ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomDemonsRunes1BN_94
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 22
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a608f39487860a7419ee96bfa385aadf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35aa259a2dfb3e54fa13acf28ecfe7fa
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
