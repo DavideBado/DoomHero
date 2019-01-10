@@ -46,18 +46,22 @@ public class InputGiocatore : MonoBehaviour
     }
     void Rune()
     {
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.D))
         {
             A.GetComponent<BoxCollider>().enabled = true;
-            Aanim.SetBool("RuneOn", true);
+            Aanim.SetBool("RuneOn", true);            
         }
         else
         {
             A.GetComponent<BoxCollider>().enabled = false;
-            Aanim.SetBool("RuneOn", false);
+            if (Input.GetKey(KeyCode.A))
+            {
+                Aanim.SetBool("RuneOn", true);
+            }
+            else Aanim.SetBool("RuneOn", false);
         }
 
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.D))
         {
             S.GetComponent<BoxCollider>().enabled = true;
             Sanim.SetBool("RuneOn", true);
@@ -65,10 +69,14 @@ public class InputGiocatore : MonoBehaviour
         else
         {
             S.GetComponent<BoxCollider>().enabled = false;
-            Sanim.SetBool("RuneOn", false);
+            if (Input.GetKey(KeyCode.S))
+            {
+                Sanim.SetBool("RuneOn", true);
+            }
+            else Sanim.SetBool("RuneOn", false);
         }
 
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D) && !Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.A))
         {
             D.GetComponent<BoxCollider>().enabled = true;
             Danim.SetBool("RuneOn", true);
@@ -76,7 +84,11 @@ public class InputGiocatore : MonoBehaviour
         else
         {
             D.GetComponent<BoxCollider>().enabled = false;
-            Danim.SetBool("RuneOn", false);
+            if(Input.GetKey(KeyCode.D))
+            {
+                Danim.SetBool("RuneOn", true);
+            }
+            else Danim.SetBool("RuneOn", false);
         }
     }
     void Pennata()
